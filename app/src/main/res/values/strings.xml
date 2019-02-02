@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Notes</string>
+    <string name="delete_all">Delete All</string>
+    <string name="click_to_add">Click on the add button to add notes</string>
+    <string name="save">Save</string>
+    <string name="priority">Priority</string>
+    <string name="title">Title ...</string>
+    <string name="description">Description ...</string>
+    <string name="add_note">Add New Note</string>
+    <string name="edit_note">Edit Note</string>
+</resources>
